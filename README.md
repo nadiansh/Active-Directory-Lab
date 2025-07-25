@@ -3,7 +3,7 @@
 
 A step-by-step home lab project to simulate a real-world Active Directory environment using Windows Server 2019/2022. This lab covers everything from setting up domain controllers and DHCP to PowerShell-based user management.
 
----
+
 
 ## 📌 Objective
 
@@ -16,7 +16,7 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 - Active Directory user and OU management
 - PowerShell automation
 
----
+
 
 ## 💡 Skills Learned
 
@@ -28,7 +28,7 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 - DHCP failover setup
 - Troubleshooting connectivity and DNS resolution
 
----
+
 
 ## 🔧 Tools Used
 
@@ -39,7 +39,7 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 - Server Manager (GUI)
 - Notepad (for user list in bulk user creation)
 
----
+
 
 ## 📂 Lab Documentation
 
