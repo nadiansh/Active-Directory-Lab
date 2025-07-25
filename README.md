@@ -54,3 +54,11 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 
 ## Network Topology  (in progress)
 
+
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Oracle-blue?logo=virtualbox&logoColor=white)
+![Windows Server 2019](https://img.shields.io/badge/Windows%20Server-2019-blue?logo=windows&logoColor=white)
+![Windows Server 2022](https://img.shields.io/badge/Windows%20Server-2022-darkblue?logo=windows&logoColor=white)
+![Windows 10 Client](https://img.shields.io/badge/Windows-10%20Client-blue?logo=windows10&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?logo=powershell&logoColor=white)
+
