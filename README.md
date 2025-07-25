@@ -1,7 +1,7 @@
 
 # Active Director Lab
 
-A step-by-step home lab project to simulate a real-world Active Directory environment using Windows Server 2019/2022. This lab covers everything from setting up domain controllers and DHCP to PowerShell-based user management.
+A step-by-step home lab project to simulate a real-world Active Directory environment using Windows Server 2022. This lab covers everything from setting up domain controllers and DHCP to PowerShell-based user management.
 
 
 
@@ -33,7 +33,7 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 ## 🔧 Tools Used
 
 - [Oracle VirtualBox](https://www.virtualbox.org/)
-- Windows Server 2019/2022 ISO
+- Windows Server 2022 ISO
 - Windows 10 ISO (client machines)
 - PowerShell
 - Server Manager (GUI)
