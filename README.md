@@ -49,14 +49,16 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 
 
 
+##
 
----
 
 ## Network Topology  (in progress)
 
+##
 
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)](#)
+[![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows11&logoColor=white)](#)
+[![Windows Server 2022](https://custom-icon-badges.demolab.com/badge/Windows%20Server%202022-0078D6?logo=windows11&logoColor=white)](#)
+[![PowerShell Scripting](https://img.shields.io/badge/PowerShell%20Scripting-012456?logo=powershell&logoColor=white)](#)
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Oracle-blue?logo=virtualbox&logoColor=white)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?logo=powershell&logoColor=white)
 
