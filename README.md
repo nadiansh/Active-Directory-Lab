@@ -60,5 +60,4 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 [![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?logo=windows11&logoColor=white)](#)
 [![Windows Server 2022](https://custom-icon-badges.demolab.com/badge/Windows%20Server%202022-0078D6?logo=windows11&logoColor=white)](#)
 [![PowerShell Scripting](https://img.shields.io/badge/PowerShell%20Scripting-012456?logo=powershell&logoColor=white)](#)
-
-
+[![Status](https://img.shields.io/badge/Status-In%20Progress-28a745?logo=progress&logoColor=fff)](#)
