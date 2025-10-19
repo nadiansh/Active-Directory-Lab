@@ -44,16 +44,15 @@ Set up a full company-style Active Directory domain environment in a virtual hom
 ## 📂 Lab Documentation
 
 
-
-- <a href="">AD Lab Documentation</a> (in progress)
-
+- <a href="https://github.com/nadiansh/Active-Directory-Lab/blob/main/AD-Home-Lab-nadiansh.pdf">AD 
+Home Lab Documentation</a>
 
 
 ##
 
 
-## Network Topology  (in progress)
-
+## Network Topology
+![image alt](https://github.com/nadiansh/Active-Directory-Lab/blob/main/AD-nadiansh.jpg?raw=true)
 ##
 
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)](#)
